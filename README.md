@@ -15,19 +15,19 @@
 #### 3) 자격증 유효기간
 3년
 #### 4) 영역
-Application Lifecycle Management 8%
-Installation, Configuration & Validation 12%
-Core Concepts 19%
-Networking 11%
-Scheduling 5%
-Security 12%
-Cluster Maintenance 11%
-Logging / Monitoring 5%
-Storage 7%
-Troubleshooting 10%
+Application Lifecycle Management 8% <br>
+Installation, Configuration & Validation 12% <br>
+Core Concepts 19% <br>
+Networking 11% <br>
+Scheduling 5% <br>
+Security 12% <br>
+Cluster Maintenance 11% <br>
+Logging / Monitoring 5% <br>
+Storage 7% <br>
+Troubleshooting 10% <br>
 
 #### 5) 문제유형
-오브젝트 조회
-오브젝트 생성
-트러블슈팅
-노드 추가
+오브젝트 조회 <br>
+오브젝트 생성 <br>
+트러블슈팅 <br>
+노드 추가 <br>
